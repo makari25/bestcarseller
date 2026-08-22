@@ -40,7 +40,7 @@ Install XAMPP (or any local server stack).
 A web browser (Chrome, Firefox, etc.).
 
 # Setup Steps
-Clone (git clone https://github.com/MCCREARY25/bestcarseller.git
+Clone (git clone https://github.com/makari25/bestcarseller.git
 ) or Download the RepositoryPlace the project folder inside your htdocs directory.
 C:\xampp\htdocs\bestcarseller
 
